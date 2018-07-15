@@ -1,2 +1,2 @@
 # golang101
-Basic Golang Programs
+Learn golang from gobyexample.com
