@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	var a [5]int
+	var a [6]int
 	fmt.Println("emp", a)
 	a[4] = 100
 	fmt.Println("set:", a)
